@@ -176,3 +176,14 @@ footer a:hover{
 }
 
 
+#qr{
+    background-color:var(--cor0);
+}
+
+.qrcode{
+    max-width: 200px;
+    min-width: 50px;
+    display:block;
+    margin:auto;
+}
+
